@@ -1,1 +1,1 @@
-[page](https://minukr.github.io/)
+[my website](https://minukr.github.io/minu/)
